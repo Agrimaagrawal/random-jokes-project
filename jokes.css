@@ -1,0 +1,37 @@
+body{
+    background-color: indigo;
+}
+#box{
+    width:45vw;
+    height:40vh;
+    background-color: beige;
+    border-radius: 10px;
+    
+
+}
+#container{
+    width:100vw;
+    height:100vh;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+   
+    
+}
+#box h1 {
+    text-align: center;
+}
+#jokes{
+    margin:70px;
+    text-align: center;
+}
+#jokebtn{
+    margin-top:20px;
+    margin-left: 300px;
+    padding: 10px;
+    color: brown;
+    border: 0ch;
+    background-color: chartreuse;
+    
+    
+}
